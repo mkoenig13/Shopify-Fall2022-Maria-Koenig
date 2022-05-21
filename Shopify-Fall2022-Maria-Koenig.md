@@ -13,5 +13,5 @@
 
 I don’t know many jokes, but I came up with this one on the spot: 
 
-<img src="Shopify_Joke.png"/>
+<img src="Shopify_Joke.png" alt="Joke" width="600" height="300"/>
 
